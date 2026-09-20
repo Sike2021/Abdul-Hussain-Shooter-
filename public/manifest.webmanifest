@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "Abdul Hussain Shooter AHS",
+  "short_name": "AHS",
+  "description": "Tactical 2v2 CQB indoor mobile shooter with Abdul Hussain, smart AI breachers, 100+ auto-generated players, and installable Android app.",
+  "theme_color": "#09090b",
+  "background_color": "#09090b",
+  "display": "standalone",
+  "orientation": "any",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

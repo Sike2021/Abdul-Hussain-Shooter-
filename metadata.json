@@ -1,0 +1,6 @@
+{
+  "name": "Abdul Hussain Shooter AHS",
+  "description": "Tactical 2v2 CQB indoor mobile shooter with Abdul Hussain, smart AI breachers, 100+ auto-generated players roster, and Android PWA support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
